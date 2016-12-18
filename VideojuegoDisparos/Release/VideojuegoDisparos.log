@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 14/12/2016 1:11:31 p. m..
+     1>Proyecto "C:\Users\gasto\OneDrive\documents\visual studio 2015\Projects\VideojuegoDisparos\VideojuegoDisparos\VideojuegoDisparos.vcxproj" en el nodo 2 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gasto\onedrive\documents\visual studio 2015\Projects\VideojuegoDisparos\Release\VideojuegoDisparos.exe" /NOLOGO /LIBPATH:"C:\SFML-2.4.1\lib" winmm.lib opengl32.lib gdi32.lib jpeg.lib freetype.lib "sfml-system-s.lib" "sfml-window-s.lib" "sfml-graphics-s.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\gasto\onedrive\documents\visual studio 2015\Projects\VideojuegoDisparos\Release\VideojuegoDisparos.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gasto\onedrive\documents\visual studio 2015\Projects\VideojuegoDisparos\Release\VideojuegoDisparos.lib" /MACHINE:X86 /SAFESEH Release\Main.obj
+         Generando código
+     1>c:\users\gasto\onedrive\documents\visual studio 2015\projects\videojuegodisparos\videojuegodisparos\main.cpp(322): warning C4715: 'elegir_uno': no todas las rutas de acceso de control devuelven un valor
+         All 395 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Generación de código finalizada
+         VideojuegoDisparos.vcxproj -> C:\Users\gasto\onedrive\documents\visual studio 2015\Projects\VideojuegoDisparos\Release\VideojuegoDisparos.exe
+     1>Compilación del proyecto terminada "C:\Users\gasto\OneDrive\documents\visual studio 2015\Projects\VideojuegoDisparos\VideojuegoDisparos\VideojuegoDisparos.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.71
